@@ -2,6 +2,7 @@
   "name": "rest-api",
   "version": "1.0.0",
   "description": "Uso de node js",
+  "type": "module",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -24,5 +25,8 @@
   },
   "eslintConfig": {
     "extends": "standard"
+  },
+  "devDependencies": {
+    "standard": "17.1.0"
   }
 }
