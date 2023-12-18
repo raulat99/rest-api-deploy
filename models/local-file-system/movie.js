@@ -1,4 +1,4 @@
-import { readJSON } from '../utils.js'
+import { readJSON } from '../../utils.js'
 import { randomUUID } from 'node:crypto'
 
 // SOLUCIÓN EXPERIMENTAL QUE AÚN NO FUNCIONA
